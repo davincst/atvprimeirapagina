@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sextou na faculdade</title>
+</head>
+<body>
+    
+    <h1> Trabalho sexta dia 31/01</h1>
+    <hr>
+    <ol>
+        <h1>minhas 3 bandas favorita</h1>
+        <li>
+            <a href="https://pt.wikipedia.org/wiki/Ponto_de_Equil%C3%ADbrio_(banda)"> <img src="https://s2.glbimg.com/Fdbfs_8-BZZZ8tsxO329xDVZ2ng=/0x0:4042x2441/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/K/N/SdoaimQMKU2UCy64UNVA/pde-foto-divulga03-photo-joao-paulo-racy.jpg" width="300"> </a>
+        </li>
+        <br>
+        <li>
+            <a href="https://pt.wikipedia.org/wiki/Wesley_Safad%C3%A3o"> <img src="https://s2.glbimg.com/BNZLSPGAQULus_wSCQQyfY3_4Ec=/0x0:1700x1065/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/X/f/DqnUQBRg6BgptDgt87TQ/ws.jpg" width="300"> </a>
+        </li>
+        <br>
+        <li>
+            <a href="https://pt.wikipedia.org/wiki/Aviões_do_Forró"> <img src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2019/06/Carlos-Aristides.jpg" width="300"> </a>
+        </li>
+        <br>
+        
+    </ol>
+    <hr>
+    <ol>
+        <h1>minhas 3 series favoritas</h1>
+        <li>
+            <a href="https://pt.wikipedia.org/wiki/Vikings_(s%C3%A9rie_de_televis%C3%A3o)"> <img src="https://files.meiobit.com/wp-content/uploads/2019/11/20191120vikings_valhalla.jpg" width="300"> </a>
+        </li>
+        <br>
+        <li>
+            <a href="https://pt.wikipedia.org/wiki/The_Last_of_Us_(s%C3%A9rie_de_televis%C3%A3o)"> <img src="https://upload.wikimedia.org/wikipedia/pt/b/be/The_Last_of_Us_capa.png" width="300"> </a>
+        </li>
+        <br>
+        <li>
+            <a href="https://pt.wikipedia.org/wiki/The_Avengers_(2012)"> <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/The_Avengers_Cartaz.jpg/250px-The_Avengers_Cartaz.jpg" width="300"> </a>
+        </li>
+        <br>
+    </ol>
+    <hr>
+    <ol>
+        <h1>meus 3 jogos favoritos</h1>
+        <li>
+            <a href="https://pt.wikipedia.org/wiki/Call_of_Duty:_Warzone"> <img src="https://upload.wikimedia.org/wikipedia/pt/5/5f/COD_Warzone.jpg" width="300"> </a>
+        </li>
+        <li>
+            <a href="https://pt.wikipedia.org/wiki/FIFA_23"> <img src="https://upload.wikimedia.org/wikipedia/en/a/a6/FIFA_23_Cover.jpg" width="300"> </a>
+        </li>
+        <li>
+            <a href="https://pt.wikipedia.org/wiki/The_Last_of_Us"> <img src="https://upload.wikimedia.org/wikipedia/pt/b/be/The_Last_of_Us_capa.png" width="300"> </a>
+        </li>
+    </ol>
+    <hr>
+</body>
+</html>
